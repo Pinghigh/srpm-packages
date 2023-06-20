@@ -47,9 +47,9 @@ cp target/release/dust %{buildroot}%{_bindir}/
 
 %changelog
 * Mon Jun 19 2023 Tibrella Dai <pinghigh24678@outlook.com> 0.8.6
-- Add some optimize
+- Add some optimization
 * Sun Oct 23 2022 Wei-Lun Chao <bluebat@member.fsf.org> - 0.8.3
 - Rebuilt for Fedora
 * Tue May 12 2020 guillomovitch <guillomovitch> 0.5.1-1.mga8
 + Revision: 1583381
-- imported package dust
+- Imported package dust
