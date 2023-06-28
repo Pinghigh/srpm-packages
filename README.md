@@ -1,3 +1,5 @@
+Warning: 教练配的系统太烂导致系统没有 oom 就寄掉了，相应的，虚拟机 fedora 用的 btrfs，一断电全寄了恢复不过来，于是回归 arch（还是 arch 流畅），此仓库暂时性 Archive。
+
 # srpm-packages
 一些自己写/改的 rpm 构建包，以 src.rpm + spec 形式发布
 
